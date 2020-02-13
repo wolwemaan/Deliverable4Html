@@ -1,0 +1,21 @@
+body {
+  background-color: Linen;
+}
+h1 {
+  color: LightSlateGrey;
+}
+.inputfield_names {
+   color: blue;
+   font-weight: bold;
+}
+
+.inputfield_email {
+   color: indigo;
+   font-weight: bold;
+}
+
+td
+{
+    font-family: arial;
+	color: MidnightBlue;
+}
