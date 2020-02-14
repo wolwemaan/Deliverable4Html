@@ -1,4 +1,3 @@
-
 import re
 import math
 class Solution:
@@ -17,8 +16,6 @@ class Solution:
                 return max-1
             elif result <= 0-max:
                 return 0-max
-        try:
-            return result
-        except:
-            return 0 
-        
+            else:
+                return result
+        return 0
