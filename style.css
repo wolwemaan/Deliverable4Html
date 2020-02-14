@@ -1,8 +1,8 @@
 body {
-  background-color: Linen;
+   background-color: Linen;
 }
 h1 {
-  color: LightSlateGrey;
+   color: LightSlateGrey;
 }
 .inputfield_names {
    color: blue;
@@ -16,6 +16,6 @@ h1 {
 
 td
 {
-    font-family: arial;
-	color: MidnightBlue;
+   font-family: arial;
+   color: MidnightBlue;
 }
